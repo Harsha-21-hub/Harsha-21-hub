@@ -11,7 +11,7 @@
 
 ### 👨‍🎓 About Me && 🧠 Skills
 
-<table width="100%" border="0">
+<table width="100%" border="20">
 <tr>
 <td width="50%" valign="top">
 
