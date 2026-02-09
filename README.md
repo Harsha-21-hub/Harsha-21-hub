@@ -9,7 +9,7 @@
 
 ---
 
-### 👨‍🎓 About Me                                                                                        ### 🧠 Skills
+### 👨‍🎓 About Me                                                                                         🧠 Skills
 - 🎓 **B.E. CSE (AI & ML)** — Neil Gogte Institute of Technology  
 - 📊 **CGPA:** **8.5**
 - 🎯 Focused on **DSA + Core CS + AI/ML Projects**
