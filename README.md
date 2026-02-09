@@ -1,64 +1,102 @@
-<h1 align="center">Hi 👋 I'm Sri Harsha Sorra</h1>
-<h3 align="center">AI & ML | DSA in C++ | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Sri Harsha Sorra</h1>
+<h3 align="center">AI & ML Engineer | DSA in C++ | Problem Solver</h3>
 
 <p align="center">
   <a href="https://github.com/Harsha-21-hub">
-    <img src="https://komarev.com/ghpvc/?username=Harsha-21-hub&label=Profile%20Views&color=blue&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=Harsha-21-hub&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
 ---
 
-### 👨‍🎓 About Me && 🧠 Skills
+## 👨‍💻 About Me  
 
-<table width="100%" border: 20px>
-<tr>
-<td width="50%" valign="top">
-
-- 🎓 **B.E. CSE (AI & ML)**  
-  Neil Gogte Institute of Technology
-- 📊 **CGPA:** 8.5 (till 2nd sem)
-- 🎯 Focused on DSA + Core CS + AI/ML Projects
-- 💡 Interested in ML & Real-world Applications
-
-</td>
-<td width="50%" valign="top">
-
-- **Languages:** C, C++, Python
-- **Core CS:** DSA, DBMS, OS, OOPs
-- **AI/ML:** ML, Deep Learning, Transformers, Random Forest
-- **Tools:** Git, GitHub, Linux, Jupyter, Google Colab
-
-</td>
-</tr>
-</table>
+- 🎓 **B.E. CSE (AI & ML)** @ **Neil Gogte Institute of Technology**, Hyderabad  
+- 📅 **Study Period:** 2024 – 2028  
+- 📊 **CGPA:** **8.5 (till 2nd semester)**  
+- 🎯 **Goal:** Crack campus placements with strong **DSA + Core CS + ML projects**
+- 💡 Passionate about **Machine Learning, Deep Learning & Problem Solving**
+- ⚡ Love building **deployable, real-world projects**
 
 ---
 
-## 🚀 Projects
+## 🧠 Tech Stack  
 
-### 🔥 TrendMood — AI Trend Analysis  
-🔗 https://github.com/Harsha-21-hub/TrendMood__AI-Model  
+### 💻 Programming & Core CS  
+- **Languages:** C, C++, Python  
+- **DSA:** Arrays, Linked List, Stack, Queue, Trees, Graphs  
+- **Core Subjects:** DBMS, OS, OOPs  
+- **SQL:** MySQL  
+
+### 🤖 AI / ML  
+- Machine Learning  
+- Deep Learning  
+- Transformers  
+- Random Forest  
+- Data Preprocessing & Feature Engineering  
+
+### 🛠 Tools & Platforms  
+- Git & GitHub  
+- Linux  
+- Jupyter Notebook  
+- Google Colab  
+
+---
+
+## 🚀 Featured Projects  
+
+### 🔥 TrendMood — AI-Based Trend Analysis  
+🔗 **Repo:** https://github.com/Harsha-21-hub/TrendMood__AI-Model  
+
+- Predicts and analyzes trending patterns using ML  
+- Focused on real-world applicability  
+- End-to-end ML pipeline  
+
+---
 
 ### ❤️ CardioPredictor (Random Forest)  
-🔗 https://github.com/Harsha-21-hub/CardioPredictor_using_RandomForest  
+🔗 **Repo:** https://github.com/Harsha-21-hub/CardioPredictor_using_RandomForest  
+
+- Heart disease prediction using Random Forest  
+- Clean data preprocessing & evaluation  
+- Focus on model accuracy and reliability  
+
+---
 
 ### 🧠 CardioPredictor (Transformers)  
-🔗 https://github.com/Harsha-21-hub/CardioPredictor_using_Transformers  
+🔗 **Repo:** https://github.com/Harsha-21-hub/CardioPredictor_using_Transformers  
+
+- Advanced transformer-based architecture  
+- Comparative analysis with traditional ML models  
+- Research-oriented project  
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsha-21-hub&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsha-21-hub&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-21-hub&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
+---
+
+## 🔗 Connect With Me  
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sri-harsha-sorra-814817318  
+- 🐦 **X (Twitter):** https://x.com/SriSorra  
+- 📸 **Instagram:** https://www.instagram.com/sri_harsha.21/  
 
 ---
 
-## 🔗 Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/sri-harsha-sorra-814817318  
-- 🐦 X: https://x.com/SriSorra  
-- 📸 Instagram: https://www.instagram.com/sri_harsha.21/  
+## 🏆 Current Focus  
 
-<p align="center"><i>Building skills today for better opportunities tomorrow 🚀</i></p>
+- 📌 DSA in **C++**  
+- 📌 Core CS for placements  
+- 📌 Building **industry-ready ML projects**  
+
+---
+
+<p align="center">
+  <i>“Consistency beats talent when talent doesn’t work consistently.”</i> 🚀
+</p>
