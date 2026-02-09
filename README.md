@@ -16,15 +16,31 @@
 - 💡 Interested in **Machine Learning & Real-world Applications**
 
 
-## 👨‍💻 About Me & 🧠 Skills
+<h2 align="center">🧑‍💻 About Me & 🧠 Skills</h2>
 
-| 👨‍🎓 About Me | 🧠 Skills |
-|-------------|-----------|
-| 🎓 **B.E. CSE (AI & ML)**<br>Neil Gogte Institute of Technology | **Languages:** C, C++, Python |
-| 📊 **CGPA:** 8.5 (till 2nd sem) | **Core CS:** DSA, DBMS, OS, OOPs |
-| 🎯 Focused on **DSA + Core CS + AI/ML Projects** | **AI/ML:** ML, Deep Learning, Transformers, Random Forest |
-| 💡 Interested in **ML & Real-world Applications** | **Tools:** Git, GitHub, Linux, Jupyter, Google Colab |
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
+  <div style="flex: 1; min-width: 280px; border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
+    <h3>🧑‍🎓 About Me</h3>
+    <ul>
+      <li>🎓 <b>B.E. CSE (AI & ML)</b><br>Neil Gogte Institute of Technology</li>
+      <li>📊 <b>CGPA:</b> 8.5 (till 2nd sem)</li>
+      <li>🎯 Focused on DSA + Core CS + AI/ML Projects</li>
+      <li>💡 Interested in ML & Real-world Applications</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; min-width: 280px; border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
+    <h3>🧠 Skills</h3>
+    <ul>
+      <li><b>Languages:</b> C, C++, Python</li>
+      <li><b>Core CS:</b> DSA, DBMS, OS, OOPs</li>
+      <li><b>AI/ML:</b> ML, Deep Learning, Transformers, Random Forest</li>
+      <li><b>Tools:</b> Git, GitHub, Linux, Jupyter, Google Colab</li>
+    </ul>
+  </div>
+
+</div>
 
 ---
 
