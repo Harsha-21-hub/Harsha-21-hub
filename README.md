@@ -33,6 +33,35 @@
 </tr>
 </table>
 
+### 👨‍🎓 About Me && 🧠 Skills
+
+<table align="center" width="100%" cellpadding="15" cellspacing="0"
+       style="border-top:1px solid #30363d; border-bottom:1px solid #30363d;">
+<tr>
+
+<td width="50%" valign="top" style="border-right:1px solid #30363d;">
+
+- 🎓 **B.E. CSE (AI & ML)**  
+  Neil Gogte Institute of Technology
+- 📊 **CGPA:** 8.5 (till 2nd sem)
+- 🎯 Focused on DSA + Core CS + AI/ML Projects
+- 💡 Interested in ML & Real-world Applications
+
+</td>
+
+<td width="50%" valign="top">
+
+- **Languages:** C, C++, Python
+- **Core CS:** DSA, DBMS, OS, OOPs
+- **AI/ML:** ML, Deep Learning, Transformers, Random Forest
+- **Tools:** Git, GitHub, Linux, Jupyter, Google Colab
+
+</td>
+
+</tr>
+</table>
+
+
 ---
 
 ## 🚀 Projects
