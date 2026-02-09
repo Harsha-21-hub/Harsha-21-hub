@@ -11,12 +11,9 @@
 
 ## 👨‍💻 About Me  
 
-- 🎓 **B.E. CSE (AI & ML)** @ **Neil Gogte Institute of Technology**, Hyderabad  
-- 📅 **Study Period:** 2024 – 2028  
-- 📊 **CGPA:** **8.5 (till 2nd semester)**  
-- 🎯 **Goal:** Crack campus placements with strong **DSA + Core CS + ML projects**
+- 🎓 **B.E. CSE (AI & ML)** @ **Neil Gogte Institute of Technology**
+- 📊 **CGPA:** **8.5**
 - 💡 Passionate about **Machine Learning, Deep Learning & Problem Solving**
-- ⚡ Love building **deployable, real-world projects**
 
 ---
 
@@ -25,22 +22,8 @@
 ### 💻 Programming & Core CS  
 - **Languages:** C, C++, Python  
 - **DSA:** Arrays, Linked List, Stack, Queue, Trees, Graphs  
-- **Core Subjects:** DBMS, OS, OOPs  
-- **SQL:** MySQL  
-
-### 🤖 AI / ML  
-- Machine Learning  
-- Deep Learning  
-- Transformers  
-- Random Forest  
-- Data Preprocessing & Feature Engineering  
-
-### 🛠 Tools & Platforms  
-- Git & GitHub  
-- Linux  
-- Jupyter Notebook  
-- Google Colab  
-
+- **AI / ML:** Machine Learning, Deep Learning, Transformers
+ 
 ---
 
 ## 🚀 Featured Projects  
@@ -74,10 +57,16 @@
 
 ## 📈 GitHub Stats  
 
+<!-- <p align="center"> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Harsha-21-hub&show_icons=true&theme=tokyonight" height="170"/> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-21-hub&layout=compact&theme=tokyonight" height="170"/> -->
+<!-- </p> -->
+
+## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsha-21-hub&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-21-hub&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsha-21-hub&theme=github_dark" />
 </p>
+
 
 ---
 
@@ -86,17 +75,3 @@
 - 💼 **LinkedIn:** https://www.linkedin.com/in/sri-harsha-sorra-814817318  
 - 🐦 **X (Twitter):** https://x.com/SriSorra  
 - 📸 **Instagram:** https://www.instagram.com/sri_harsha.21/  
-
----
-
-## 🏆 Current Focus  
-
-- 📌 DSA in **C++**  
-- 📌 Core CS for placements  
-- 📌 Building **industry-ready ML projects**  
-
----
-
-<p align="center">
-  <i>“Consistency beats talent when talent doesn’t work consistently.”</i> 🚀
-</p>
