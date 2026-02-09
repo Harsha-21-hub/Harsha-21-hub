@@ -9,16 +9,15 @@
 
 ---
 
-## 👨‍🎓 About Me
+### 👨‍🎓 About Me                                                                                        ### 🧠 Skills
 - 🎓 **B.E. CSE (AI & ML)** — Neil Gogte Institute of Technology  
-- 📅 **2024 – 2028**
-- 📊 **CGPA:** **8.5 (till 2nd semester)**
+- 📊 **CGPA:** **8.5**
 - 🎯 Focused on **DSA + Core CS + AI/ML Projects**
 - 💡 Interested in **Machine Learning & Real-world Applications**
 
 ---
 
-## 🧠 Skills
+### 🧠 Skills
 **Languages:** C, C++, Python  
 **Core CS:** DSA, DBMS, OS, OOPs  
 **AI/ML:** ML, Deep Learning, Transformers, Random Forest  
