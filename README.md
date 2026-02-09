@@ -39,10 +39,11 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsha-21-hub&show_icons=true&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsha-21-hub&theme=github_dark" />
 </p>
+
 
 ---
 
