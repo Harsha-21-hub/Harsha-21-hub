@@ -16,9 +16,9 @@
 - 💡 Interested in **Machine Learning & Real-world Applications**
 
 
-<h2 align="center">🧑‍💻 About Me & 🧠 Skills</h2>
+<h2>🧑‍💻 About Me     &     🧠 Skills</h2>
 
-<table width="100%" border="0">
+<table align="center" width="90%" border="0" cellpadding="15" cellspacing="0">
 <tr>
 <td width="50%" valign="top">
 
