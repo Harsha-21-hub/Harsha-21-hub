@@ -58,9 +58,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-iota-taupe-86.vercel.app/api?username=Harsha-21-hub&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats-iota-taupe-86.vercel.app/api?username=Harsha-21-hub&show_icons=true&theme=tokyonight" width="420" height="180" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-iota-taupe-86.vercel.app/api/top-langs/?username=Harsha-21-hub&layout=compact&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats-iota-taupe-86.vercel.app/api/top-langs/?username=Harsha-21-hub&layout=compact&theme=tokyonight" width="420" height="180" alt="Top Languages" />
 </p>
 
 
