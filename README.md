@@ -67,7 +67,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://github-readme-stats-iota-taupe-86.vercel.app/api/top-langs/?username=Harsha-21-hub&layout=compact&theme=tokyonight"
-    width="370"
+    width="350"
     height="167"
     style="object-fit:cover;"
   />
