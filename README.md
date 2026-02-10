@@ -58,10 +58,19 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-iota-taupe-86.vercel.app/api?username=Harsha-21-hub&show_icons=true&theme=tokyonight" width="400" />
+  <span style="border:1px solid #3b4252; padding:12px; border-radius:10px; display:inline-block;">
+    <img src="https://github-readme-stats-iota-taupe-86.vercel.app/api?username=Harsha-21-hub&show_icons=true&theme=tokyonight"
+         width="400" />
+  </span>
+
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-iota-taupe-86.vercel.app/api/top-langs/?username=Harsha-21-hub&layout=compact&theme=tokyonight" width="400" />
+
+  <span style="border:1px solid #3b4252; padding:12px; border-radius:10px; display:inline-block;">
+    <img src="https://github-readme-stats-iota-taupe-86.vercel.app/api/top-langs/?username=Harsha-21-hub&layout=compact&theme=tokyonight"
+         width="400" />
+  </span>
 </p>
+
 
 
 ## 📊 GitHub Activity
