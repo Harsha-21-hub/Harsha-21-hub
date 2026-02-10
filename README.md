@@ -62,7 +62,7 @@
   
   <img src="https://github-readme-stats-iota-taupe-86.vercel.app/api/top-langs/?username=Harsha-21-hub&layout=compact&theme=tokyonight" height="170"/>
 
-  <img src="https://github-readme-stats-iota-taupe-86.vercel.app/api/pin/?username=Harsha-21-hub&repo=TrendMood_AI_Model&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-iota-taupe-86.vercel.app/api/pin/?username=Harsha-21-hub&repo=TrendMood__AI_Model&theme=tokyonight" height="170"/>
 </p>
 
 
