@@ -81,8 +81,14 @@
 
 ---
 
-## 🔗 Connect With Me  
+## 🔗 Connect With Me
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/sri-harsha-sorra-814817318  
-- 🐦 **X (Twitter):** https://x.com/SriSorra  
-- 📸 **Instagram:** https://www.instagram.com/sri_harsha.21/  
+
+---
+
+## 💻 Coding Profiles
+
+- 🟡 **LeetCode:** https://leetcode.com/u/sriharshasorra21/  
+- 🔵 **Codeforces:** https://codeforces.com/profile/hesi_om  
+- 🟤 **CodeChef:** https://www.codechef.com/users/zen_debugger  
